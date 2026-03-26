@@ -5,15 +5,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.util.Properties;
 import org.testng.ITestResult;
 import utils.ScreenshotUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.io.InputStream;
+import java.util.Properties;
 
 public class BaseTest {
 
@@ -21,64 +19,81 @@ public class BaseTest {
             LogManager.getLogger(BaseTest.class);
 
     private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
-    protected Properties prop;
+
+    private static ThreadLocal<Properties> prop = new ThreadLocal<>();
 
 
     public static WebDriver getDriver() {
-        return driver.get();
+        WebDriver drv = driver.get();
+
+        if (drv == null) {
+            throw new RuntimeException("Driver is NULL for Thread: " + Thread.currentThread().getId());
+        }
+        return drv;
     }
 
-    @BeforeMethod
-    public void setUp() throws IOException {
+    public static Properties getProp() {
+        return prop.get();
+    }
 
-        log.info("Loading config.properties file");
+    @BeforeMethod(alwaysRun = true)
+    public void setUp() {
 
-        prop = new Properties();
+        System.out.println(">>> BEFORE METHOD - Thread: " + Thread.currentThread().getId());
 
-        FileInputStream fis =
-                new FileInputStream("src/main/resources/config.properties");
+        try {
+            // Load properties per thread
+            Properties properties = new Properties();
+            InputStream is = getClass().getClassLoader()
+                    .getResourceAsStream("config.properties");
 
-        prop.load(fis);
+            properties.load(is);
+            prop.set(properties);
 
-        String browser = prop.getProperty("browser");
+            String browser = properties.getProperty("browser");
 
-        log.info("Browser selected: " + browser);
+            log.info("Browser: " + browser);
 
-        if (browser.equalsIgnoreCase("chrome")) {
+            WebDriver localDriver;
 
-            log.info("Setting up ChromeDriver");
-
-            WebDriverManager.chromedriver().setup();
-
-            WebDriver localDriver = new ChromeDriver();
+            if (browser.equalsIgnoreCase("chrome")) {
+                WebDriverManager.chromedriver().setup();
+                localDriver = new ChromeDriver();
+            } else {
+                throw new RuntimeException("Unsupported browser: " + browser);
+            }
 
             driver.set(localDriver);
 
-        } else {
-            log.error("Unsupported browser: " + browser);
-            throw new RuntimeException("Browser not supported: " + browser);
+            System.out.println("Driver SET: " + localDriver);
+
+            getDriver().manage().window().maximize();
+            getDriver().get(properties.getProperty("baseUrl"));
+
+        } catch (Exception e) {
+            throw new RuntimeException("Setup failed: " + e.getMessage());
         }
-
-        log.info("Maximizing browser window");
-
-        getDriver().manage().window().maximize();
-
-        log.info("Opening URL: " + prop.getProperty("baseUrl"));
-
-        getDriver().get(prop.getProperty("baseUrl"));
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void tearDown(ITestResult result) {
 
-        if (ITestResult.FAILURE == result.getStatus()) {
-            String testName = result.getName();
-            ScreenshotUtils.captureScreenshot(getDriver(), testName);
-            log.error("Test failed. Screenshot captured: " + testName);
+        try {
+            if (ITestResult.FAILURE == result.getStatus()) {
+                String testName = result.getName();
+                ScreenshotUtils.captureScreenshot(getDriver(), testName);
+                log.error("Screenshot captured for failed test: " + testName);
+            }
+
+        } catch (Exception e) {
+            log.error("Error in teardown: " + e.getMessage());
         }
 
-        log.info("Closing browser");
-        getDriver().quit();
-        driver.remove();
+        if (driver.get() != null) {
+            getDriver().quit();
+            driver.remove();
+        }
+
+        prop.remove();
     }
 }

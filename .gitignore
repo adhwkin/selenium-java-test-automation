@@ -41,4 +41,4 @@ target/
 test-output/
 *.log
 .idea/
-*.iml
+*.imlmvn clean test

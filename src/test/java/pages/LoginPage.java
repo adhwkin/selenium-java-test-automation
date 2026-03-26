@@ -6,11 +6,13 @@ import org.openqa.selenium.WebDriver;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+
 public class LoginPage extends BasePage {
 
 
     public LoginPage(WebDriver driver) {
         super(driver);
+        System.out.println("Driver in LoginPage: " + driver);
     }
     private static final Logger logger =
             LogManager.getLogger(LoginPage.class);
@@ -36,12 +38,19 @@ public class LoginPage extends BasePage {
         return getText(flashMessage);
     }
 
-    public String getMessage() {
-        String message = driver.findElement(flashMessage).getText();
+//    public String getMessage() {
+//        String message = driver.findElement(flashMessage).getText();
+//
+//        if (message.contains("success")) {
+//            System.out.println("Login successful");
+//        }
+//        return message;
+//    }
 
-        if (message.contains("success")) {
-            System.out.println("Login successful");
-        }
+    public String getMessage() {
+
+        String message = getText(flashMessage);
+        System.out.println("Actual message: " + message);
         return message;
     }
 }
