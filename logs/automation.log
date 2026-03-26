@@ -161,3 +161,579 @@
 2026-03-14 06:21:04 INFO  base.BaseTest - Closing browser
 2026-03-14 06:21:04 INFO  base.BaseTest - Closing browser
 2026-03-14 06:21:05 INFO  base.BaseTest - Closing browser
+2026-03-16 06:37:43 INFO  base.BaseTest - Loading config.properties file
+2026-03-16 06:37:43 INFO  base.BaseTest - Browser selected: chrome
+2026-03-16 06:37:43 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-16 06:37:48 INFO  base.BaseTest - Maximizing browser window
+2026-03-16 06:37:48 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-16 06:37:49 INFO  pages.LoginPage - Entering username
+2026-03-16 06:37:49 INFO  pages.LoginPage - Entering password
+2026-03-16 06:37:49 INFO  pages.LoginPage - Clicking login button
+2026-03-16 06:37:49 INFO  base.BaseTest - Closing browser
+2026-03-16 06:37:50 INFO  base.BaseTest - Loading config.properties file
+2026-03-16 06:37:50 INFO  base.BaseTest - Browser selected: chrome
+2026-03-16 06:37:50 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-16 06:37:52 INFO  base.BaseTest - Maximizing browser window
+2026-03-16 06:37:52 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-16 06:37:53 INFO  pages.LoginPage - Entering username
+2026-03-16 06:37:53 INFO  pages.LoginPage - Entering password
+2026-03-16 06:37:53 INFO  pages.LoginPage - Clicking login button
+2026-03-16 06:37:54 INFO  base.BaseTest - Closing browser
+2026-03-16 06:37:55 INFO  base.BaseTest - Loading config.properties file
+2026-03-16 06:37:55 INFO  base.BaseTest - Browser selected: chrome
+2026-03-16 06:37:55 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-16 06:37:55 INFO  base.BaseTest - Loading config.properties file
+2026-03-16 06:37:55 INFO  base.BaseTest - Loading config.properties file
+2026-03-16 06:37:55 INFO  base.BaseTest - Browser selected: chrome
+2026-03-16 06:37:55 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-16 06:37:55 INFO  base.BaseTest - Browser selected: chrome
+2026-03-16 06:37:55 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-16 06:37:58 INFO  base.BaseTest - Maximizing browser window
+2026-03-16 06:37:58 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-16 06:37:58 INFO  base.BaseTest - Maximizing browser window
+2026-03-16 06:37:58 INFO  base.BaseTest - Maximizing browser window
+2026-03-16 06:37:59 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-16 06:37:59 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-16 06:38:00 INFO  pages.LoginPage - Entering username
+2026-03-16 06:38:00 INFO  pages.LoginPage - Entering username
+2026-03-16 06:38:00 INFO  pages.LoginPage - Entering username
+2026-03-16 06:38:01 INFO  pages.LoginPage - Entering password
+2026-03-16 06:38:01 INFO  pages.LoginPage - Entering password
+2026-03-16 06:38:01 INFO  pages.LoginPage - Entering password
+2026-03-16 06:38:01 INFO  pages.LoginPage - Clicking login button
+2026-03-16 06:38:01 INFO  pages.LoginPage - Clicking login button
+2026-03-16 06:38:01 INFO  pages.LoginPage - Clicking login button
+2026-03-16 06:38:02 INFO  base.BaseTest - Closing browser
+2026-03-16 06:38:02 ERROR base.BaseTest - Test failed. Screenshot captured: loginTest
+2026-03-16 06:38:02 INFO  base.BaseTest - Closing browser
+2026-03-16 06:38:02 INFO  base.BaseTest - Closing browser
+2026-03-17 06:06:29 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:06:29 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:06:29 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:06:34 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:06:34 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:06:35 INFO  pages.LoginPage - Entering username
+2026-03-17 06:06:35 INFO  pages.LoginPage - Entering password
+2026-03-17 06:06:36 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:06:36 INFO  base.BaseTest - Closing browser
+2026-03-17 06:06:37 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:06:37 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:06:37 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:06:39 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:06:39 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:06:39 INFO  pages.LoginPage - Entering username
+2026-03-17 06:06:40 INFO  pages.LoginPage - Entering password
+2026-03-17 06:06:40 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:06:41 INFO  base.BaseTest - Closing browser
+2026-03-17 06:06:42 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:06:42 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:06:42 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:06:42 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:06:42 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:06:42 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:06:42 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:06:42 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:06:42 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:06:46 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:06:46 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:06:46 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:06:46 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:06:46 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:06:46 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:06:47 INFO  pages.LoginPage - Entering username
+2026-03-17 06:06:47 INFO  pages.LoginPage - Entering username
+2026-03-17 06:06:48 INFO  pages.LoginPage - Entering username
+2026-03-17 06:06:48 INFO  pages.LoginPage - Entering password
+2026-03-17 06:06:49 INFO  pages.LoginPage - Entering password
+2026-03-17 06:06:49 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:06:49 INFO  pages.LoginPage - Entering password
+2026-03-17 06:06:49 INFO  base.BaseTest - Closing browser
+2026-03-17 06:06:49 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:06:49 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:06:50 INFO  base.BaseTest - Closing browser
+2026-03-17 06:06:50 INFO  base.BaseTest - Closing browser
+2026-03-17 06:06:52 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:06:52 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:06:52 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:06:53 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:06:54 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:06:54 INFO  pages.LoginPage - Entering username
+2026-03-17 06:06:55 INFO  pages.LoginPage - Entering password
+2026-03-17 06:06:55 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:06:55 INFO  base.BaseTest - Closing browser
+2026-03-17 06:06:56 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:06:56 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:06:56 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:06:57 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:06:57 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:06:58 INFO  pages.LoginPage - Entering username
+2026-03-17 06:06:58 INFO  pages.LoginPage - Entering password
+2026-03-17 06:06:59 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:06:59 ERROR base.BaseTest - Test failed. Screenshot captured: loginTest
+2026-03-17 06:06:59 INFO  base.BaseTest - Closing browser
+2026-03-17 06:12:00 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:12:00 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:12:00 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:12:00 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:12:00 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:12:00 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:12:00 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:12:00 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:12:00 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:12:06 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:12:06 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:12:06 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:12:06 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:12:06 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:12:07 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:12:07 INFO  pages.LoginPage - Entering username
+2026-03-17 06:12:08 INFO  pages.LoginPage - Entering username
+2026-03-17 06:12:08 INFO  pages.LoginPage - Entering username
+2026-03-17 06:12:08 INFO  pages.LoginPage - Entering password
+2026-03-17 06:12:09 INFO  pages.LoginPage - Entering password
+2026-03-17 06:12:09 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:12:09 INFO  pages.LoginPage - Entering password
+2026-03-17 06:12:09 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:12:10 INFO  base.BaseTest - Closing browser
+2026-03-17 06:12:10 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:12:10 INFO  base.BaseTest - Closing browser
+2026-03-17 06:12:11 INFO  base.BaseTest - Closing browser
+2026-03-17 06:12:15 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:12:15 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:12:15 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:12:17 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:12:17 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:12:17 INFO  pages.LoginPage - Entering username
+2026-03-17 06:12:18 INFO  pages.LoginPage - Entering password
+2026-03-17 06:12:18 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:12:18 INFO  base.BaseTest - Closing browser
+2026-03-17 06:12:19 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:12:19 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:12:19 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:12:20 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:12:20 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:12:21 INFO  pages.LoginPage - Entering username
+2026-03-17 06:12:22 INFO  pages.LoginPage - Entering password
+2026-03-17 06:12:22 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:12:23 ERROR base.BaseTest - Test failed. Screenshot captured: loginTest
+2026-03-17 06:12:23 INFO  base.BaseTest - Closing browser
+2026-03-17 06:14:45 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:14:45 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:14:45 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:14:47 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:14:47 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:14:48 INFO  pages.LoginPage - Entering username
+2026-03-17 06:14:48 INFO  pages.LoginPage - Entering password
+2026-03-17 06:14:49 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:14:49 INFO  base.BaseTest - Closing browser
+2026-03-17 06:14:49 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:14:49 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:14:49 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:14:51 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:14:51 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:14:52 INFO  pages.LoginPage - Entering username
+2026-03-17 06:14:52 INFO  pages.LoginPage - Entering password
+2026-03-17 06:14:52 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:14:53 INFO  base.BaseTest - Closing browser
+2026-03-17 06:14:54 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:14:54 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:14:54 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:14:54 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:14:54 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:14:54 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:14:54 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:14:54 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:14:54 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:14:56 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:14:57 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:14:57 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:14:57 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:14:58 INFO  pages.LoginPage - Entering username
+2026-03-17 06:14:59 INFO  pages.LoginPage - Entering username
+2026-03-17 06:14:59 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:14:59 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:14:59 INFO  pages.LoginPage - Entering password
+2026-03-17 06:14:59 INFO  pages.LoginPage - Entering password
+2026-03-17 06:15:00 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:15:00 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:15:00 INFO  pages.LoginPage - Entering username
+2026-03-17 06:15:01 INFO  pages.LoginPage - Entering password
+2026-03-17 06:15:01 INFO  base.BaseTest - Closing browser
+2026-03-17 06:15:01 INFO  base.BaseTest - Closing browser
+2026-03-17 06:15:01 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:15:02 INFO  base.BaseTest - Closing browser
+2026-03-17 06:15:02 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:15:02 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:15:02 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:15:04 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:15:04 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:15:05 INFO  pages.LoginPage - Entering username
+2026-03-17 06:15:05 INFO  pages.LoginPage - Entering password
+2026-03-17 06:15:05 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:15:06 INFO  base.BaseTest - Closing browser
+2026-03-17 06:15:06 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:15:06 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:15:06 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:15:08 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:15:08 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:15:08 INFO  pages.LoginPage - Entering username
+2026-03-17 06:15:09 INFO  pages.LoginPage - Entering password
+2026-03-17 06:15:09 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:15:09 ERROR base.BaseTest - Test failed. Screenshot captured: loginTest
+2026-03-17 06:15:09 INFO  base.BaseTest - Closing browser
+2026-03-17 06:16:46 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:16:46 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:16:46 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:16:46 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:16:46 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:16:46 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:16:46 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:16:46 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:16:46 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:16:50 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:16:50 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:16:50 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:16:51 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:16:51 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:16:51 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:16:52 INFO  pages.LoginPage - Entering username
+2026-03-17 06:16:52 INFO  pages.LoginPage - Entering username
+2026-03-17 06:16:53 INFO  pages.LoginPage - Entering username
+2026-03-17 06:16:53 INFO  pages.LoginPage - Entering password
+2026-03-17 06:16:53 INFO  pages.LoginPage - Entering password
+2026-03-17 06:16:53 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:16:53 INFO  pages.LoginPage - Entering password
+2026-03-17 06:16:53 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:16:54 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:16:54 INFO  base.BaseTest - Closing browser
+2026-03-17 06:16:54 INFO  base.BaseTest - Closing browser
+2026-03-17 06:16:55 INFO  base.BaseTest - Closing browser
+2026-03-17 06:16:56 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:16:56 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:16:56 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:16:58 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:16:58 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:16:58 INFO  pages.LoginPage - Entering username
+2026-03-17 06:16:59 INFO  pages.LoginPage - Entering password
+2026-03-17 06:16:59 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:17:00 INFO  base.BaseTest - Closing browser
+2026-03-17 06:17:00 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:17:00 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:17:00 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:17:01 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:17:01 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:17:01 INFO  pages.LoginPage - Entering username
+2026-03-17 06:17:02 INFO  pages.LoginPage - Entering password
+2026-03-17 06:17:02 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:17:03 ERROR base.BaseTest - Test failed. Screenshot captured: loginTest
+2026-03-17 06:17:03 INFO  base.BaseTest - Closing browser
+2026-03-17 06:25:45 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:25:45 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:25:45 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:25:45 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:25:45 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:25:45 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:25:45 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:25:45 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:25:45 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:25:49 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:25:49 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:25:49 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:25:49 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:25:50 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:25:50 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:25:51 INFO  pages.LoginPage - Entering username
+2026-03-17 06:25:51 INFO  pages.LoginPage - Entering username
+2026-03-17 06:25:51 INFO  pages.LoginPage - Entering username
+2026-03-17 06:25:52 INFO  pages.LoginPage - Entering password
+2026-03-17 06:25:52 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:25:52 INFO  pages.LoginPage - Entering password
+2026-03-17 06:25:53 INFO  pages.LoginPage - Entering password
+2026-03-17 06:25:53 INFO  base.BaseTest - Closing browser
+2026-03-17 06:25:53 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:25:53 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:25:54 INFO  base.BaseTest - Closing browser
+2026-03-17 06:25:54 INFO  base.BaseTest - Closing browser
+2026-03-17 06:25:56 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:25:56 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:25:56 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:25:57 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:25:57 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:25:57 INFO  pages.LoginPage - Entering username
+2026-03-17 06:25:58 INFO  pages.LoginPage - Entering password
+2026-03-17 06:25:58 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:25:59 INFO  base.BaseTest - Closing browser
+2026-03-17 06:25:59 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 06:25:59 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 06:25:59 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 06:26:00 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 06:26:00 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 06:26:01 INFO  pages.LoginPage - Entering username
+2026-03-17 06:26:01 INFO  pages.LoginPage - Entering password
+2026-03-17 06:26:01 INFO  pages.LoginPage - Clicking login button
+2026-03-17 06:26:02 ERROR base.BaseTest - Test failed. Screenshot captured: loginTest
+2026-03-17 06:26:02 INFO  base.BaseTest - Closing browser
+2026-03-17 21:33:23 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 21:33:23 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 21:33:23 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 21:33:23 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 21:33:23 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 21:33:23 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 21:33:23 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 21:33:23 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 21:33:23 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 21:33:33 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 21:33:33 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 21:33:33 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 21:33:33 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 21:33:34 INFO  pages.LoginPage - Entering username
+2026-03-17 21:33:34 INFO  pages.LoginPage - Entering username
+2026-03-17 21:33:35 INFO  pages.LoginPage - Entering password
+2026-03-17 21:33:35 INFO  pages.LoginPage - Entering password
+2026-03-17 21:33:35 INFO  pages.LoginPage - Clicking login button
+2026-03-17 21:33:37 INFO  base.BaseTest - Closing browser
+2026-03-17 21:33:37 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 21:33:37 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 21:33:37 INFO  pages.LoginPage - Clicking login button
+2026-03-17 21:33:38 INFO  pages.LoginPage - Entering username
+2026-03-17 21:33:38 INFO  pages.LoginPage - Entering password
+2026-03-17 21:33:38 INFO  base.BaseTest - Closing browser
+2026-03-17 21:33:39 INFO  pages.LoginPage - Clicking login button
+2026-03-17 21:33:39 INFO  base.BaseTest - Closing browser
+2026-03-17 21:33:42 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 21:33:42 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 21:33:42 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 21:33:43 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 21:33:44 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 21:33:44 INFO  pages.LoginPage - Entering username
+2026-03-17 21:33:45 INFO  pages.LoginPage - Entering password
+2026-03-17 21:33:45 INFO  pages.LoginPage - Clicking login button
+2026-03-17 21:33:45 INFO  base.BaseTest - Closing browser
+2026-03-17 21:33:46 INFO  base.BaseTest - Loading config.properties file
+2026-03-17 21:33:46 INFO  base.BaseTest - Browser selected: chrome
+2026-03-17 21:33:46 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-17 21:33:47 INFO  base.BaseTest - Maximizing browser window
+2026-03-17 21:33:47 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-17 21:33:48 INFO  pages.LoginPage - Entering username
+2026-03-17 21:33:49 INFO  pages.LoginPage - Entering password
+2026-03-17 21:33:49 INFO  pages.LoginPage - Clicking login button
+2026-03-17 21:33:49 ERROR base.BaseTest - Test failed. Screenshot captured: loginTest
+2026-03-17 21:33:49 INFO  base.BaseTest - Closing browser
+2026-03-18 21:55:52 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:52 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:52 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:52 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:52 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:52 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:52 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:52 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:52 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:53 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:53 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:53 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:53 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:53 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:53 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:53 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:53 INFO  pages.LoginPage - Entering username
+2026-03-18 21:55:53 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:41 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:41 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:41 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:41 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:41 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:41 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:41 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:41 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:41 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:42 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:42 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:42 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:42 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:42 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:42 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:42 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:42 INFO  pages.LoginPage - Entering username
+2026-03-18 22:09:42 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:06 INFO  base.BaseTest - Loading config.properties file
+2026-03-19 05:35:06 INFO  base.BaseTest - Browser selected: chrome
+2026-03-19 05:35:06 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-19 05:35:08 INFO  base.BaseTest - Loading config.properties file
+2026-03-19 05:35:08 INFO  base.BaseTest - Loading config.properties file
+2026-03-19 05:35:08 INFO  base.BaseTest - Browser selected: chrome
+2026-03-19 05:35:08 INFO  base.BaseTest - Loading config.properties file
+2026-03-19 05:35:08 INFO  base.BaseTest - Browser selected: chrome
+2026-03-19 05:35:08 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-19 05:35:08 INFO  base.BaseTest - Browser selected: chrome
+2026-03-19 05:35:08 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-19 05:35:08 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-19 05:35:19 INFO  base.BaseTest - Maximizing browser window
+2026-03-19 05:35:19 INFO  base.BaseTest - Maximizing browser window
+2026-03-19 05:35:19 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-19 05:35:19 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-19 05:35:21 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:21 INFO  base.BaseTest - Closing browser
+2026-03-19 05:35:21 INFO  base.BaseTest - Maximizing browser window
+2026-03-19 05:35:21 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-19 05:35:23 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:23 INFO  pages.LoginPage - Entering password
+2026-03-19 05:35:24 INFO  base.BaseTest - Maximizing browser window
+2026-03-19 05:35:24 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-19 05:35:25 INFO  pages.LoginPage - Entering password
+2026-03-19 05:35:25 INFO  pages.LoginPage - Clicking login button
+2026-03-19 05:35:25 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:26 INFO  pages.LoginPage - Clicking login button
+2026-03-19 05:35:26 INFO  base.BaseTest - Closing browser
+2026-03-19 05:35:26 INFO  pages.LoginPage - Entering password
+2026-03-19 05:35:26 INFO  pages.LoginPage - Clicking login button
+2026-03-19 05:35:26 INFO  base.BaseTest - Closing browser
+2026-03-19 05:35:27 INFO  base.BaseTest - Closing browser
+2026-03-19 05:35:30 INFO  base.BaseTest - Loading config.properties file
+2026-03-19 05:35:30 INFO  base.BaseTest - Browser selected: chrome
+2026-03-19 05:35:30 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-19 05:35:31 INFO  base.BaseTest - Maximizing browser window
+2026-03-19 05:35:31 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-19 05:35:32 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:33 INFO  pages.LoginPage - Entering password
+2026-03-19 05:35:33 INFO  pages.LoginPage - Clicking login button
+2026-03-19 05:35:33 INFO  base.BaseTest - Closing browser
+2026-03-19 05:35:34 INFO  base.BaseTest - Loading config.properties file
+2026-03-19 05:35:34 INFO  base.BaseTest - Browser selected: chrome
+2026-03-19 05:35:34 INFO  base.BaseTest - Setting up ChromeDriver
+2026-03-19 05:35:35 INFO  base.BaseTest - Maximizing browser window
+2026-03-19 05:35:35 INFO  base.BaseTest - Opening URL: https://the-internet.herokuapp.com/login
+2026-03-19 05:35:36 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:36 INFO  pages.LoginPage - Entering password
+2026-03-19 05:35:36 INFO  pages.LoginPage - Clicking login button
+2026-03-19 05:35:37 ERROR base.BaseTest - Test failed. Screenshot captured: loginTest
+2026-03-19 05:35:37 INFO  base.BaseTest - Closing browser
+2026-03-19 05:35:39 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:39 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:39 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:39 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:39 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:39 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:39 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:39 INFO  pages.LoginPage - Entering username
+2026-03-19 05:35:39 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:51 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:51 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:51 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:51 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:51 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:51 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:51 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:51 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:51 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:52 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:52 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:52 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:53 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:53 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:53 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:53 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:53 INFO  pages.LoginPage - Entering username
+2026-03-19 05:42:53 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:30 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:30 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:30 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:30 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:30 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:30 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:30 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:30 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:30 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:31 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:31 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:31 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:31 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:31 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:31 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:31 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:31 INFO  pages.LoginPage - Entering username
+2026-03-19 05:44:31 INFO  pages.LoginPage - Entering username
+2026-03-20 05:57:22 INFO  base.BaseTest - Browser: chrome
+2026-03-20 05:57:29 INFO  base.BaseTest - Browser: chrome
+2026-03-20 05:57:31 INFO  pages.LoginPage - Entering username
+2026-03-20 05:57:31 INFO  pages.LoginPage - Entering password
+2026-03-20 05:57:32 INFO  pages.LoginPage - Clicking login button
+2026-03-20 05:57:32 INFO  base.BaseTest - Browser: chrome
+2026-03-20 05:57:34 INFO  pages.LoginPage - Entering username
+2026-03-20 05:57:35 INFO  pages.LoginPage - Entering password
+2026-03-20 05:57:35 INFO  pages.LoginPage - Clicking login button
+2026-03-20 05:57:36 INFO  base.BaseTest - Browser: chrome
+2026-03-20 05:57:37 INFO  pages.LoginPage - Entering username
+2026-03-20 05:57:38 INFO  pages.LoginPage - Entering password
+2026-03-20 05:57:38 INFO  pages.LoginPage - Clicking login button
+2026-03-20 05:57:39 INFO  base.BaseTest - Browser: chrome
+2026-03-20 05:57:41 INFO  pages.LoginPage - Entering username
+2026-03-20 05:57:41 INFO  pages.LoginPage - Entering password
+2026-03-20 05:57:41 INFO  pages.LoginPage - Clicking login button
+2026-03-20 05:57:42 INFO  base.BaseTest - Browser: chrome
+2026-03-20 05:57:43 INFO  pages.LoginPage - Entering username
+2026-03-20 05:57:44 INFO  pages.LoginPage - Entering password
+2026-03-20 05:57:44 INFO  pages.LoginPage - Clicking login button
+2026-03-20 05:57:45 ERROR base.BaseTest - Screenshot captured for failed test: loginTest
+2026-03-21 05:58:20 INFO  base.BaseTest - Browser: chrome
+2026-03-21 05:58:27 INFO  pages.LoginPage - Entering username
+2026-03-21 05:58:27 INFO  pages.LoginPage - Entering password
+2026-03-21 05:58:27 INFO  pages.LoginPage - Clicking login button
+2026-03-21 05:58:27 INFO  base.BaseTest - Browser: chrome
+2026-03-21 05:58:29 INFO  pages.LoginPage - Entering username
+2026-03-21 05:58:30 INFO  pages.LoginPage - Entering password
+2026-03-21 05:58:30 INFO  pages.LoginPage - Clicking login button
+2026-03-21 05:58:30 INFO  base.BaseTest - Browser: chrome
+2026-03-21 05:58:33 INFO  pages.LoginPage - Entering username
+2026-03-21 05:58:33 INFO  pages.LoginPage - Entering password
+2026-03-21 05:58:33 INFO  pages.LoginPage - Clicking login button
+2026-03-21 05:58:34 INFO  base.BaseTest - Browser: chrome
+2026-03-21 05:58:37 INFO  pages.LoginPage - Entering username
+2026-03-21 05:58:37 INFO  pages.LoginPage - Entering password
+2026-03-21 05:58:37 INFO  pages.LoginPage - Clicking login button
+2026-03-21 05:58:37 INFO  base.BaseTest - Browser: chrome
+2026-03-21 05:58:40 INFO  pages.LoginPage - Entering username
+2026-03-21 05:58:40 INFO  pages.LoginPage - Entering password
+2026-03-21 05:58:41 INFO  pages.LoginPage - Clicking login button
+2026-03-21 05:58:43 INFO  base.BaseTest - Browser: chrome
+2026-03-21 05:58:47 INFO  pages.LoginPage - Entering username
+2026-03-21 05:58:48 INFO  pages.LoginPage - Entering password
+2026-03-21 05:58:49 INFO  pages.LoginPage - Clicking login button
+2026-03-21 06:25:11 INFO  base.BaseTest - Browser: chrome
+2026-03-21 06:25:15 INFO  pages.LoginPage - Entering username
+2026-03-21 06:25:16 INFO  pages.LoginPage - Entering password
+2026-03-21 06:25:16 INFO  pages.LoginPage - Clicking login button
+2026-03-21 06:25:17 INFO  base.BaseTest - Browser: chrome
+2026-03-21 06:25:18 INFO  pages.LoginPage - Entering username
+2026-03-21 06:25:19 INFO  pages.LoginPage - Entering password
+2026-03-21 06:25:19 INFO  pages.LoginPage - Clicking login button
+2026-03-21 06:25:19 INFO  base.BaseTest - Browser: chrome
+2026-03-21 06:25:22 INFO  pages.LoginPage - Entering username
+2026-03-21 06:25:22 INFO  pages.LoginPage - Entering password
+2026-03-21 06:25:22 INFO  pages.LoginPage - Clicking login button
+2026-03-21 06:25:23 ERROR base.BaseTest - Screenshot captured for failed test: loginTest
+2026-03-24 04:51:47 INFO  base.BaseTest - Browser: chrome
+2026-03-24 04:51:55 INFO  pages.LoginPage - Entering username
+2026-03-24 04:51:55 INFO  pages.LoginPage - Entering password
+2026-03-24 04:51:55 INFO  pages.LoginPage - Clicking login button
+2026-03-24 04:51:56 INFO  base.BaseTest - Browser: chrome
+2026-03-24 04:51:58 INFO  pages.LoginPage - Entering username
+2026-03-24 04:51:58 INFO  pages.LoginPage - Entering password
+2026-03-24 04:51:59 INFO  pages.LoginPage - Clicking login button
+2026-03-24 04:51:59 INFO  base.BaseTest - Browser: chrome
+2026-03-24 04:52:01 INFO  pages.LoginPage - Entering username
+2026-03-24 04:52:01 INFO  pages.LoginPage - Entering password
+2026-03-24 04:52:02 INFO  pages.LoginPage - Clicking login button
+2026-03-24 04:52:02 ERROR base.BaseTest - Screenshot captured for failed test: loginTest
+2026-03-25 04:25:04 INFO  base.BaseTest - Browser: chrome
+2026-03-25 04:25:13 INFO  pages.LoginPage - Entering username
+2026-03-25 04:25:14 INFO  pages.LoginPage - Entering password
+2026-03-25 04:25:14 INFO  pages.LoginPage - Clicking login button
+2026-03-25 04:25:19 INFO  base.BaseTest - Browser: chrome
+2026-03-25 04:25:20 INFO  pages.LoginPage - Entering username
+2026-03-25 04:25:21 INFO  pages.LoginPage - Entering password
+2026-03-25 04:25:21 INFO  pages.LoginPage - Clicking login button
+2026-03-25 04:25:22 INFO  base.BaseTest - Browser: chrome
+2026-03-25 04:25:24 INFO  pages.LoginPage - Entering username
+2026-03-25 04:25:24 INFO  pages.LoginPage - Entering password
+2026-03-25 04:25:25 INFO  pages.LoginPage - Clicking login button
+2026-03-25 04:25:26 ERROR base.BaseTest - Screenshot captured for failed test: loginTest

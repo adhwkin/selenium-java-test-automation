@@ -11,8 +11,12 @@ public class LoginTest extends BaseTest {
 
     //LoginPage loginPage;   // declare object
 
-    @Test(dataProvider="loginData")
+    @Test(dataProvider="loginData", groups= {"smoke", "regression"})//retryAnalyzer = utils.RetryAnalyzer.class)
     public void loginTest(String username, String password, String expectedResult) {
+
+
+        System.out.println("Thread: " + Thread.currentThread().getId());
+        System.out.println("Driver in test: " + getDriver());
 
         LoginPage loginPage = new LoginPage(getDriver());
         System.out.println("Running on Thread: " + Thread.currentThread().getId());
@@ -29,8 +33,12 @@ public class LoginTest extends BaseTest {
                     message.contains("Your password is invalid"));
         }
     }
+    @Test(groups = {"sanity"})
+    public void basicPageLoadTest() {
+        Assert.assertTrue(getDriver().getTitle().contains("The Internet"));
+    }
 
-     @DataProvider(name = "loginData", parallel = true)
+     @DataProvider(name = "loginData", parallel = false)
     public Object[][] getData() {
 
         String path = "src/test/resources/testdata/LoginData.xlsx";
