@@ -13,6 +13,7 @@ public class LoginTest extends BaseTest {
     //LoginPage loginPage;   // declare object
 
     @Test(dataProvider="loginData", groups= {"smoke", "regression"}, retryAnalyzer = utils.RetryAnalyzer.class)
+    @Test(dataProvider="loginData", groups= {"smoke", "regression"})//retryAnalyzer = utils.RetryAnalyzer.class)
     public void loginTest(String username, String password, String expectedResult) {
 
 
@@ -61,6 +62,10 @@ public class LoginTest extends BaseTest {
 
 // VERY IMPORTANT → triggers all validations
         softAssert.assertAll();
+    }
+    @Test(groups = {"sanity"})
+    public void basicPageLoadTest() {
+        Assert.assertTrue(getDriver().getTitle().contains("The Internet"));
     }
     @Test(groups = {"sanity"})
     public void basicPageLoadTest() {

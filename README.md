@@ -29,4 +29,5 @@ Login functionality automation for:
 https://the-internet.herokuapp.com/login
 
 ## How to Run Tests
+mvn clean test
 
