@@ -15,11 +15,11 @@ This project demonstrates a test automation framework built using Selenium WebDr
 
 ## Features
 
-- Page Object Model design
-- ThreadLocal WebDriver for parallel execution
-- Extent Reports with screenshot on failure
-- Log4j2 logging system
-- Excel DataProvider
+- ThreadLocal WebDriver (parallel execution ready)
+- Page Object Model (POM)
+- Explicit waits for stability
+- Retry mechanism for flaky tests
+- Soft assertions for better validation
 - Screenshot capture on failure
 
 ## Test Scenario
